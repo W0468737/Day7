@@ -1,0 +1,13 @@
+table {
+    width: 80%;
+    overflow: auto
+}
+table, th, td {
+    border: none;
+    border-color:rgb(255, 49, 49);
+    color:rgb(255, 255, 255);
+}
+th, td{
+    font-weight:bold;	
+    color: rgb(0, 0, 0);
+}
