@@ -4,10 +4,10 @@ table {
 }
 table, th, td {
     border: none;
-    border-color:rgb(255, 49, 49);
-    color:rgb(255, 255, 255);
+    border-color: #000;
+    color: #fff;
 }
 th, td{
     font-weight:bold;	
-    color: rgb(0, 0, 0);
+    color: #000;
 }
