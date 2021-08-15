@@ -4,13 +4,21 @@ table {
 }
 table, th, td {
     border: none;
-    border-color: #000;
     color: #fff;
 }
 th, td{
     font-weight:bold;	
     color: #000;
 }
+col{
+    background-color:rgb(119, 119, 119);
+}
+#t1 {
+    background-color:rgb(150, 200, 160);
+}
+#t2 {
+	background-color:rgb(200, 150, 160);
+	}
 
  @media screen and (max-width: 925px) {
      
